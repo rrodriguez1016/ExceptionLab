@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/rodri/projects/homework/fu/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\ErrorHandling.dir\\main.cpp.obj -c C:\\Users\\rodri\\projects\\homework\\fu\\main.cpp",
+  "file": "C:/Users/rodri/projects/homework/fu/main.cpp",
+  "output": "CMakeFiles/ErrorHandling.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/rodri/projects/homework/fu/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\ErrorHandling.dir\\FileUtils.cpp.obj -c C:\\Users\\rodri\\projects\\homework\\fu\\FileUtils.cpp",
+  "file": "C:/Users/rodri/projects/homework/fu/FileUtils.cpp",
+  "output": "CMakeFiles/ErrorHandling.dir/FileUtils.cpp.obj"
+},
+{
+  "directory": "C:/Users/rodri/projects/homework/fu/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\ErrorHandling.dir\\GeometryUtils.cpp.obj -c C:\\Users\\rodri\\projects\\homework\\fu\\GeometryUtils.cpp",
+  "file": "C:/Users/rodri/projects/homework/fu/GeometryUtils.cpp",
+  "output": "CMakeFiles/ErrorHandling.dir/GeometryUtils.cpp.obj"
+},
+{
+  "directory": "C:/Users/rodri/projects/homework/fu/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\ErrorHandling.dir\\Exceptions.cpp.obj -c C:\\Users\\rodri\\projects\\homework\\fu\\Exceptions.cpp",
+  "file": "C:/Users/rodri/projects/homework/fu/Exceptions.cpp",
+  "output": "CMakeFiles/ErrorHandling.dir/Exceptions.cpp.obj"
+}
+]
